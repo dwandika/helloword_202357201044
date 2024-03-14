@@ -15,6 +15,8 @@ public class Helloword_202357201044 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Nama : Mochamad Dwi Andika");
+        System.out.println("Nim  : 202357201044");
     }
     
 }
